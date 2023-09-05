@@ -1,4 +1,4 @@
-# K3-ValoranRecyclerViewKotlin
+# K3-ValorantRecyclerViewKotlin
 * Valorant ajanlarının isimleri, rolleri ve hakkında bölümü recycler view ile bir ekrana yansıtıldı.
 
 ## Kullanılanlar
